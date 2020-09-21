@@ -1,0 +1,27 @@
+/*
+ Theme Name:   Neve Child Theme
+ Theme URI:    http://portfolio.jonassandbjerg.com/neve-child-theme/
+ Description:  neve child theme based on the parent theme 
+ Author:       Jonas Sandbjerg
+ Author URI:   http://portfolio.jonassandbjerg.com
+ Template:     neve
+ Version:      1.1.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  nevechild
+*/
+
+
+
+.hfg_header .header-main-inner{
+ position: fixed !important;
+ top: 0 !important;
+ width: 100% !important;
+ z-index: 1 !important;
+}
+
+
+.elementor-4 .elementor-element.elementor-element-f69a0f9 > .elementor-widget-container {
+font-size: 18px !important;
+}
